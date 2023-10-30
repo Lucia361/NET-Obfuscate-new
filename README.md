@@ -75,5 +75,3 @@ Options:
 		/* 0x00000286 2A           */ IL_0036: ret
 	} // end of method JPEQYLSVTO::.ctor
 ```
-
-
